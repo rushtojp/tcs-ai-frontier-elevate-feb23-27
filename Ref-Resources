@@ -1,14 +1,147 @@
-Lab Access Guide
-################
-
-https://experienceazure.blob.core.windows.net/cl-shared-kbyg-docs/gps-sandbox/Accelerate_Agentic_AI_Hands_on_Labs-CloudLabs_Attendee_Experience.pdf
-
-Generative AI Principles - Golden commandments
-
-https://github.com/rushtojp/github-workshop-resources/blob/master/GAI-simplified-principles.md
 
 Github copilot labs
 
 https://github.com/rushtojp/github-workshop-resources/
 
+Github copilot resources - GH-300 certification
 
+https://github.com/rushtojp/github-workshop-resources
+
+MS-4022 learn course
+
+https://learn.microsoft.com/en-us/training/courses/ms-4022
+
+AI-3026 learn course
+
+https://learn.microsoft.com/en-us/training/courses/ai-3026
+
+MS Ignite session 2025 - book of updates
+sessions recording : https://ignite.microsoft.com/en-US/sessions
+https://news.microsoft.com/ignite-2025-book-of-news/
+
+Microsoft 365 Copilot hub
+
+https://learn.microsoft.com/en-us/copilot/microsoft-365/
+
+m365 copilot license requirements
+
+https://learn.microsoft.com/en-us/microsoft-365-copilot/extensibility/prerequisites
+
+Power Platform licensing guide
+
+https://go.microsoft.com/fwlink/?linkid=2085130
+
+standard copilot studio licensing
+
+https://learn.microsoft.com/en-us/microsoft-copilot-studio/requirements-licensing-subscriptions
+
+Microsoft copilot prompt library
+
+aka.ms/copilot-prompt-library
+
+AI Project Resources
+
+https://github.com/Azure-Samples
+
+Ai Azure code templates and tutorials
+
+https://ai.azure.com/templates
+
+Create agentic AI solutions by using Microsoft Foundry - ignite 25 solution
+
+https://learn.microsoft.com/en-us/plans/kx1b2ty2grgzz?wt.mc_id=ignite25-plans-agenticsolutions-azmktg&source=docs
+
+Microsoft Copilot Studio Exercises
+
+https://github.com/MicrosoftLearning/mslearn-copilotstudio
+
+Copilot Studio samples
+
+https://github.com/microsoft/CopilotStudioSamples
+
+Copilot studio lab references
+
+https://pratapladhani.github.io/mcs-labs/labs/
+
+Quota check before deployment
+
+https://github.com/rushtojp/Multi-Agent-Custom-Automation-Engine-Solution-Accelerator-jan26/blob/main/docs/quota_check.md
+
+
+Documentation - reference
+
+differentiation between copilot studio and ai foundry
+
+https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-copilot-studio-vs-microsoft-foundry-building-ai-agents-and-apps/4483160
+Microsoft prepurchase plan credits between copilot and ai foundry - https://learn.microsoft.com/en-us/azure/cost-management-billing/reservations/agent-pre-purchase
+Connect foundry agent in copilot studio
+
+https://microsoft.github.io/mcscatblog/posts/connect-foundry-agents-in-copilotstudio/
+
+Azure AI - others accelarator finder
+
+https://florki610.github.io/accelerator-finder/
+
+Azure AI Agents Playbook
+
+https://github.com/rushtojp/azure-ai-agents-playbook
+
+Microsoft foundry samples
+
+https://github.com/microsoft-foundry/foundry-samples
+
+AI shared responsibility model
+
+https://learn.microsoft.com/en-us/azure/security/fundamentals/shared-responsibility-ai
+
+Microsoft Foundry Labs
+
+https://labs.ai.azure.com/
+
+Develop Ai Agents in Azure - exercises
+
+https://microsoftlearning.github.io/mslearn-ai-agents/
+
+Github copilot usage estimator
+
+https://microsoft.github.io/copilot-studio-estimator/
+
+Azure Pricing Tool
+
+https://azure.microsoft.com/en-in/pricing/calculator/
+
+Microsoft Foundry Pricing - estimator process
+
+https://learn.microsoft.com/en-us/azure/ai-foundry/how-to/costs-plan-manage?view=foundry-classic
+
+AI Architecture Design
+
+https://learn.microsoft.com/en-us/azure/architecture/ai-ml/
+
+Azure Architecture Center
+
+https://learn.microsoft.com/en-us/azure/architecture/
+
+powerplatform prompt library
+
+https://github.com/pnp/powerplatform-prompts
+
+copilot prompts
+
+https://github.com/pnp/copilot-prompts
+
+observability in generative ai
+
+https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/observability?view=foundry-classic
+
+AGent architecture patterns
+
+https://github.com/microsoft/agent-framework/tree/main/workflow-samples
+
+Architecture patterns using semnatic kernal
+
+https://github.com/microsoft/semantic-kernel/tree/main/python/samples/getting_started_with_agents
+
+Generative AI Principles - Golden commandments
+
+https://github.com/rushtojp/github-workshop-resources/blob/master/GAI-simplified-principles.md
